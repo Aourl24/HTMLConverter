@@ -3,7 +3,7 @@ import "./App.css";
 import "./css/bootstrap/bootstrap.min.css";
 import "./css/acss/acss.css";
 import "./css/acss/animate.min.css";
-import "./css/fontawesome_5/css/all.min.css";
+//import "./css/fontawesome_5/css/all.min.css";
 
 const App = () => {
   return (
